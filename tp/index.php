@@ -13,7 +13,7 @@ $file_uploads="8";
 $websitename="小k网络文件外链系统";
 
 // 完整的网址和目录，最后用/
-$full_url="http://gylwj.9gz.xyz/zjlj/a/";
+$full_url="https://3194703513.github.io/tp/a/";
 
 // 系统上存储路径最后用/.
 $folder="./a/";
